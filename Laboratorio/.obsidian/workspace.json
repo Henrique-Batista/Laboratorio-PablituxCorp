@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ea6a0154023f2aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87e1364e929ba40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50301ee6a6cdebcc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "806b4db1e7e1d45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "526e3e43a5af9fc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4275c4c6132da5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbbe29073eb232c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9608e3239d2c20f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c51f45ca440a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "f031c28e0386a136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c4336ee06d40b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6119575d71f7aa8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a05c64453ed48f31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82f9794dfaa9228b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-09-09.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a4275c4c6132da5c",
+  "lastOpenFiles": [
+    "2024-09-09.md",
+    "Introducao/2.Requisitos.md",
+    "Untitled.canvas",
+    "Servicos/1.Serviços.md",
+    "VPN Server.md",
+    "Introducao/3.Recursos.md",
+    "Introducao/1.Introdução.md",
+    "Servicos",
+    "Introducao"
+  ]
+}
