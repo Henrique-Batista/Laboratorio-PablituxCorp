@@ -11,8 +11,12 @@
             "id": "50301ee6a6cdebcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Servicos/1.Serviços.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Servicos/1.Serviços.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Servicos/1.Serviços.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-09.md"
+                "file": "Servicos/1.Serviços.md"
               }
             }
+          },
+          {
+            "id": "a31ecbdbcaac150d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,18 +151,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4275c4c6132da5c",
+  "active": "50301ee6a6cdebcc",
   "lastOpenFiles": [
-    "2024-09-09.md",
-    "Introducao/2.Requisitos.md",
-    "Untitled.canvas",
-    "Servicos/1.Serviços.md",
-    "VPN Server.md",
     "Introducao/3.Recursos.md",
+    "Introducao/2.Requisitos.md",
     "Introducao/1.Introdução.md",
+    "Servicos/1.Serviços.md",
+    "Untitled.canvas",
+    "2024-09-09.md",
+    "VPN Server.md",
     "Servicos",
     "Introducao"
   ]
